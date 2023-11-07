@@ -1,1 +1,5 @@
 /author
+.vscode
+.gitignore
+go.mod
+README.md
